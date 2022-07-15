@@ -9,16 +9,16 @@ Read todos
 Update a todo
 Delete a todo
 
-#Backend
-Initialize our backend using npm and install necessary packages
-Set up a MongoDB database
-Set up server using Node and Express
+# Backend
+Initialize our backend using **npm** and install necessary packages
+Set up a **MongoDB** database
+Set up server using **Node** and **Express**
 Create a database schema to define a Todo
-Set up API routes to create, read, update and delete documents from the database
-Testing our API routes using REST client
+Set up **API**routes to create, read, update and delete documents from the database
+Testing our **API**routes using **REST client**
 
-#frontend
-Set up our frontend using create-react-app
+# Frontend
+Set up our frontend using **create-react-app** 
 Create components for reading all the todo, creating todo and updating todo
 
 initialize the create-react-app in the client folder
