@@ -25,12 +25,16 @@ Set up **API**routes to create, read, update and delete documents from the datab
 
 Testing our **API**routes using **REST client**
 
+### Backend is deployed via **Heruko**
+
 # Frontend
 
-## Set up our frontend using **create-react-app** 
+Set up our frontend using **create-react-app** 
 
 Create components for reading all the todo, creating todo and updating todo
 
-initialize the create-react-app in the client folder
+initialize the **create-react-app** in the **client** folder
+
+### Frontend is deployed via **Netlify**
 
 
